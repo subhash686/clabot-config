@@ -1,5 +1,5 @@
 {
-  "contributors": ["testing", "nate"],
+  "contributors": "https://gsx2json.com/api?id=1_iBZh9PJi-05vTnlQ3GVeeRe8H3Wq1_FZ49aYrsHGLQ&sheet=githubhandles&columns=false",
   "message": "We require contributors to sign our Contributor License Agreement, and we don't have yours on file. In order for us to review and merge your code, please sign [CLA](https://forms.gle/YnmetmopXNxFxsDUA) to get yourself added.",
   "label": "cla-signed",
   "recheckComment": "The GitHub CLA Bot is rechecking to see that you have signed the CLA"
